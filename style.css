@@ -1,0 +1,37 @@
+.heading{
+    font-size: 23px;
+    border: 3px dashed white;
+    margin: 0px;
+    text-align: center;
+    width: 100%;
+}
+.note{
+    text-align: center;
+    font-size: 16px;
+    color: white;
+}
+#divvol{
+    float: left;
+}
+.imgdisk{
+    width: 200px;
+    border-radius:100px; ;
+}
+#divspeed{
+    float: Right;
+}
+#vol,#speed{
+    font-size: 23px;
+    margin: 15px;
+}
+canvas{
+    border: 10px dashed whitesmoke;
+    border-radius: 50px;
+    margin-top: 50px;
+}
+.play{
+    width: 10%;
+    height: 50px;
+    text-align: center;
+    font-size: large;
+}
